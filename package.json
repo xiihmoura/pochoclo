@@ -1,0 +1,6 @@
+{
+  "name": "pochoclo-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ERP POCHOCLO - site estático + API de sincronização (Vercel)"
+}
